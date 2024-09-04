@@ -4,3 +4,4 @@ pandas
 matplotlib
 yfinance
 scipy
+scipy==1.11.2
